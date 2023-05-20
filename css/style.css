@@ -140,7 +140,7 @@ ul {
 }
 
 .news_list_item:first-child {
-    border-top: 1px solid #E6E6E6;
+    padding-top: 1px solid #E6E6E6;
 }
 
 .news_list_item a {
